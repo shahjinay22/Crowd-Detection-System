@@ -114,7 +114,7 @@ git clone https://github.com/shahjinay22/Crowd-Detection-System.git
 Move into project
 
 ```bash
-cd AI-Crowd-Detection-System
+cd Crowd-Detection-System
 ```
 
 Install Dependencies
