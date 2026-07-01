@@ -98,9 +98,7 @@ AI-Crowd-Detection-System
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
-│
-├── assets
-     ├── heatmap.png
+├── heatmap.png
 
 
 ---
