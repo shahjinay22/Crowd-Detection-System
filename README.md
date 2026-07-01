@@ -20,16 +20,6 @@ Detects people in real-time using **YOLOv8**, generates **crowd density heatmaps
 
 ---
 
-# 📸 Project Preview
-
-> Replace the image path below with your own screenshot.
-
-<p align="center">
-<img src="assets/heatmap.png" width="850">
-</p>
-
----
-
 # ✨ Features
 
 - 👤 Real-Time Person Detection using YOLOv8
